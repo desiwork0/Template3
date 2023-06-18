@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TextckmponentComponent } from './textckmponent/textckmponent.component';
 import { EmpInfoComponent } from './emp-info/emp-info.component';
+import { FormComponenetComponent } from './form-componenet/form-componenet.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     TextckmponentComponent,
-    EmpInfoComponent
+    EmpInfoComponent,
+    FormComponenetComponent
   ],
   imports: [
     BrowserModule,
