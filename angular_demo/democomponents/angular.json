@@ -25,12 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "democomponents/node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "src/styles.css"
+              //"democomponents/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
-              "democomponents/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
-              "democomponents/node_modules/jquery/dist/jquery.min.js"
+              /*"democomponents/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+              "democomponents/node_modules/jquery/dist/jquery.min.js"*/
             ]
           },
           "configurations": {
