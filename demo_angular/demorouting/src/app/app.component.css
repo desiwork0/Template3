@@ -48,7 +48,7 @@ clear:both;}
 
 /* Izbornik ************************************ */
 
-#jezik span{
+#jezik span a{
 display:inline-block;
 /* Bilo je inline, a promijenio sam jer inline-block daje ljepši izgled izbornika. */
 padding-top:1px;
